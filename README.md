@@ -2,6 +2,10 @@
 
 > Front End that was written in Vue.js for my FBLA BookManager Project
 
+> Requirments
+- Node.js
+  - Can be downloaded at https://nodejs.org/en/download/
+
 ## Build Setup
 
 ```bash
@@ -15,7 +19,9 @@ npm install
 npm run dev
 ```
 
-This project uses Vue.js to create a front-end view. The backend is hosted on Amazon Web Services (AWS) so that it can be accessed anywhere.
+> Project Features
+
+This project uses Vue.js to create a front-end view. The backend is hosted on Amazon Web Services (AWS) so that it can be accessed anywhere and at anytime.
 
 When you run the project, you will land on the homepage. There are three tabs on the navigation bar:
 - Home
