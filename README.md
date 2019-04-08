@@ -7,8 +7,6 @@
 ```bash
 # Download the project as a zip attachment
 # Open a new terminal at the location that you downloaded
-# Move into the correct directory
-cd bookmanager
 
 # Install all of the node dependencies
 npm install
